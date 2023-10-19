@@ -15,6 +15,7 @@ const Icons = {
     .default,
   minus: require("../assets/images/master_icon/minus.svg").default,
   plus: require("../assets/images/master_icon/plus.svg").default,
+  searchIcon: require("../assets/images/icon/search_box_icon.svg").default,
 };
 
 export default Icons;

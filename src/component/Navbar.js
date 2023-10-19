@@ -14,7 +14,6 @@ const Navbar = () => {
               <div className="brand-logo">
                 <Link to="/">
                   <img src={Icons.logo} alt="logo"></img>
-                  mannan
                 </Link>
               </div>
               <div className="navbar-menu">
